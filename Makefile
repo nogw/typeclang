@@ -1,6 +1,6 @@
 CC = gcc
 CCFLAGS = -g -Wall
-TARGET = predicative
+TARGET = typeclass
 
 all: compile
 	./$(TARGET)

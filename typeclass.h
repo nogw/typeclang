@@ -1,5 +1,5 @@
-#ifndef IT_TYPECLASS_H
-#define IT_TYPECLASS_H
+#ifndef TYPECLASS_H
+#define TYPECLASS_H
 
 #define typeclass(funcs)                                                       \
   struct {                                                                     \
